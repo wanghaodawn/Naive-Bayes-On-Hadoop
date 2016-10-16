@@ -1,2 +1,2 @@
-# Naive-Bayes-With-Hadoop-API
-Naive Bayes with Hadoop API
+# Naive-Bayes-On-Hadoop
+Naive Bayes on Hadoop
